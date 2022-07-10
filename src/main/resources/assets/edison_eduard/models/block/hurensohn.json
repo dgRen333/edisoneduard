@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "edison_eduard:blocks/flat_bricks_type_4_5_3",
+    "particle": "edison_eduard:blocks/flat_bricks_type_4_5_3"
+  }
+}
